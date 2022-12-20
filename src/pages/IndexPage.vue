@@ -14,7 +14,8 @@ import ContentCard from 'components/ContentCard.vue'
 const cardList= [
   {
     title:'Test1',
-    subtitle:'서브타이틀1'
+    subtitle:'서브타이틀1',
+    content:'컨텐츠 내용입니다'
   },
   {
     title:'Test2',
